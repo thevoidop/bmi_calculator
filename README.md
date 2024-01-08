@@ -32,9 +32,9 @@ This is a simple BMI (Body Mass Index) calculator application built using the `c
 ## Usage
 
   - Run the main.py file to launch the BMI Calculator app:
-  ```bash
-  python main.py
-  ```
+     ```bash
+     python main.py
+     ```
   - Input your height and weight.
   - Switch between metric and imperial units.
   - See the dynamically updated BMI result.
